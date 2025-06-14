@@ -52,11 +52,11 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: '中弦局·九弦之都',
-      link: 'https://www.sinzmise.top/',
+      name: '中弦局·故事空间',
+      link: 'https://www.storical.space/',
     },
     {
-      name: '九弦之屋（个人博客）',
+      name: '汐塔魔法屋',
       link: 'https://blog.sinzmise.top/',
     },
     {
